@@ -22,4 +22,6 @@ better backend architecture · system design · ai agents · scalable applicatio
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shrvn46&label=views&color=0d1117&labelColor=0d1117&style=flat-square" alt="profile views" />
 </p>
-<img width="400" height="400" alt="Rotating_earth_(large)" src="https://github.com/user-attachments/assets/52feeea0-ba9b-4910-b560-4a40634dcfec" />
+<p align="center">
+  <img width="400" height="400" alt="Rotating_earth_(large)" src="https://github.com/user-attachments/assets/52feeea0-ba9b-4910-b560-4a40634dcfec" />
+</p>
