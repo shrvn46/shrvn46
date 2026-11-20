@@ -19,4 +19,7 @@ i'd rather ship a working product, learn from what breaks, and iterate than spen
 **currently exploring**
 
 better backend architecture · system design · ai agents · scalable applications · and everything that goes into becoming a better product engineer.
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shrvn46&label=views&color=0d1117&labelColor=0d1117&style=flat-square" alt="profile views" />
+</p>
+<img width="400" height="400" alt="Rotating_earth_(large)" src="https://github.com/user-attachments/assets/52feeea0-ba9b-4910-b560-4a40634dcfec" />
